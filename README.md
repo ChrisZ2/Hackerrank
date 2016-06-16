@@ -1,1 +1,1 @@
-This is some java solutions of Hackerrank problems.
+This is some java solutions of the Hackerrank problems.
